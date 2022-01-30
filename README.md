@@ -1,6 +1,7 @@
 # 🦖 T-Rex Run 3D
 Play the original game here: http://priler.github.io/dino3d/low.html  
 Original alt. version with best quality settings for high-end PCs: http://priler.github.io/dino3d/
+
 Translated game: http://boost201106.github.io/low.html
 Translated high end pc version: http://boost201106.github.io/dino3d
 
